@@ -39,6 +39,7 @@ bower_components
 build/Release
 
 # Dependency directories
+Server/
 node_modules/
 jspm_packages/
 
@@ -118,5 +119,11 @@ out
 
 #Bootstrap
 Bootstrap
+
+# jason files & other unused file
+package-lock.json
+package.json
+.prettierignore
+.prettierrc
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
